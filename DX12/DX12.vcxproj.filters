@@ -31,5 +31,11 @@
     <FxCompile Include="GRS.hlsl">
       <Filter>源文件</Filter>
     </FxCompile>
+    <FxCompile Include="VS.hlsl">
+      <Filter>源文件</Filter>
+    </FxCompile>
+    <FxCompile Include="PS.hlsl">
+      <Filter>源文件</Filter>
+    </FxCompile>
   </ItemGroup>
 </Project>
