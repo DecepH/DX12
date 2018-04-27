@@ -22,4 +22,14 @@
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="GRS.hlsli">
+      <Filter>头文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="GRS.hlsl">
+      <Filter>源文件</Filter>
+    </FxCompile>
+  </ItemGroup>
 </Project>
